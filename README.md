@@ -16,7 +16,7 @@ The Way...
         Layer 2 (Banner layer)  : profolio-frame-z2
 
         Layer 3  (font layer)   : profolio-frame-z3
-  *In webpage `contact.html`, in `form "Message"`, I didn't use `<input>`, but `<textarea>` for multiple input line.
+  * In webpage `contact.html`, in `form "Message"`, I didn't use `<input>`, but `<textarea>` for multiple input line.
 
 The Next...
   * Sticky footer still not as perfect as in method one. Still can't always staying at bottom while browser size changing. 
