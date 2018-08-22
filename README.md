@@ -17,6 +17,8 @@ The Way...
 
         Layer 3  (font layer)   : profolio-frame-z3
   * In webpage `contact.html`, in `form "Message"`, I didn't use `<input>`, but `<textarea>` for multiple input line.
+  * In Media Query section, make the display value as block for container, the flex valus for three different layer. At the same time. Setting the three layer **position:absolute** which is easy to achieve layer effect. 
 
 The Next...
   * Sticky footer still not as perfect as in method one. Still can't always staying at bottom while browser size changing. 
+  * Add CSS animation accoring the homework requirement.
